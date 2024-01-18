@@ -11,11 +11,11 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/Javascript_code_screen.jpeg">
 
-## Hold up, Wait a Minute
+## Hold Up, Wait a Minute
 
 Throughout my first two years of undergrad, I learned the basics of programming. With proper variable and function names, declaring your variables at the beginning of your program, and much more. These standards help develop my mind to tackle challenges and problems in languages like Java and C. And then all of a sudden, Javascript hit me with something unexpected. A variable holding an integer can also hold a string. First, this caught me off guard but then I was stuck with one question, why?
 
-## You made it Just-In-Time
+## You Made It Just-In-Time
 
 I learned that Javascript uses the Just-in-time (JIT) compiler. That allows it to interpret code but also compile it at runtime.  But just like Java, I can assume that it also has a slower runtime due to the fact it has to interpret as the program runs. What I found interesting about Javascript's JIT compiler is that this makes sense as its primary application is websites and front-end development. I believe that Javascript is a good language for software engineering because most software and especially website/front-end development are very based on the user. Having more dynamic variables sounds like a benefit. That is because using variables for multiple different places but also having multiple different values depending on the user.
 
