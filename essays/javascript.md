@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Javascript_code_screen.jpeg">
 
 ## // Hold up, Wait a Minute
 
