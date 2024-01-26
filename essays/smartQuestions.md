@@ -10,7 +10,7 @@ labels:
   - OpenSource
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Javascript_code_screen.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
 
 # Don't Know? Ask!
 Many times in life, you will be stuck on a question or topic that you can't seem to figure out. No one has all the knowledge in the universe, many times we ought to seek help. In the context of asking computer science-based questions, there are many applications where users can get lost. From the standard terminology, using different languages with sometimes unique syntax, and just being a changing and dynamic field, new and even seasoned programmers can hit a wall. That's why it is extremely important to not only ask questions but have them well structured, so when presented can lead to a productive answer.
