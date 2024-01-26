@@ -6,8 +6,8 @@ title: "Asking the Right Questions"
 date: 2024-01-25
 published: true
 labels:
-  - StackOverflow
-  - OpenSource
+  - Stack Overflow
+  - Open Source
 ---
 
 <img width="250px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
