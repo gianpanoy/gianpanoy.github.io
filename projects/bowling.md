@@ -12,9 +12,7 @@ labels:
 summary: "My journey as a student athlete."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/bowling-horizonal-post.jpg" class="img-thumbnail" >
-</div>
+<img width="200px" src="../img/bowling-horizonal-post.jpg" class="img-thumbnail">
 
 # Ready to Strike
 
