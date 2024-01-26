@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/bowling-horizontal-post.jpg
 title: "Bowling"
 date: 2024
 published: true
@@ -13,11 +13,18 @@ summary: "My journey as a student athlete."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/bowling-horizontal-post.jpg" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+# Ready to Strike
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I started bowling in my freshman year of high school. I had a late start, missing that year's tryouts, but I knew I wanted to keep going. I was in the local junior bowling league where weekly I could get outside help. Every practice was a focus on just growing in any aspect of my game. I also became a Captain of my team at one point. I was able to take a team as a leader in a tournment wiht other junior bowlers. That experience was unqiue because I put into a leadership position I had no experience in leading a group of athletes so it was interesting.
+
+# High School Memories
+
+In my last high school season, we won and could represent the Island of Kauai and travel to the neighboring Island of Oahu to compete in state tournament. Those are some of the moments from high school I cheerish the most. Through sports and team collaboration, it fosters growth in everyone through forming deep connections with others but also working towards goals. Something that stuck with me, is that many people's high school's career will be their peak of that kind of competition. It is so unique not all of us get to play in University so I look back at my high school games proud.
+
+# Very Far From Home
+
+One of the best experiences of my life has been going up to Michigan to play in a tournament called Junior Gold. It was a nationwide event where the winner of the tournament had the chance to be on the youth national team. I got to meet a lot of competitive juniors and professional bowlers around the Country. In the last photo, is me and PBA and USBC Hall of Fame player Norm Duke. I by no means was a professional bowler, I consider myself very lucky to have that opportunity. I prepared for months honing both mental and physical games. But what I took away the most was how to mentally stay strong. Bowling is special in a way that when you are up on the lane it is just you. There are no other distractions so the real battle is in your mind. That is a lesson I've taken with me in my life.
+
