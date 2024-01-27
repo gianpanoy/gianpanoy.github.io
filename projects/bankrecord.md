@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/bank-record-logo.png
 title: "New Customer? No Problem!"
 date: 2023
 published: true
