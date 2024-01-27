@@ -9,7 +9,7 @@ labels:
   - Band
   - Competition
   - Music
-summary: "When I participate in a band representing the island of Kauai at the Holiday Bowl"
+summary: "When I participate in a band representing the Island of Kauai at the Holiday Bowl"
 ---
 
 <div class="text-center p-4">
