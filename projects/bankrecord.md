@@ -29,7 +29,7 @@ struct record
 };
 ```
 
-The code was conceived as if it were a real-world project. It contains a debug mode called during compilation that allows users to see what values variables are stored. Also with the project is a test case list that I, acting as both the programmer and tester, must do to ensure the code produces the desired output from a user perspective.
+The code was conceived as if it were a real-world project. It contains a debug mode called during compilation that allows users to see what values variables are stored. Also with the project is a list of test cases that I, acting as both the programmer and tester, must do to ensure the code produces the desired output from a user perspective.
 
 Here is an example of debug mode when called in the **addRecord()** method:
 ```cpp
