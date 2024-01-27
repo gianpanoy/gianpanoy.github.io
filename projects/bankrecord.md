@@ -9,7 +9,7 @@ labels:
   - C
   - C++
   - Test Cases
-summary: "Bank teller interface for processing and removing customer records ."
+summary: "Bank teller interface for processing and removing customer records."
 ---
 
 <img class="img-fluid" src="../img/bank-record-menu.png">
