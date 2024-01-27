@@ -24,25 +24,7 @@ I've been enjoying music for as long as I can remember. Playing the drums since 
 
 One of my favorite memories from the band was participating in the Kauai All Island Band. United together by my middle school band director Ms. Sarah Tochiki, we had young students from across all the middle and high schools on the Island of Kauai to join together to create something special. Here we practiced all summer of 2017 leading up to December to travel to California. There we were set to perform but also compete in the Holiday Bowl parade, and also participated in a field show competition. The winner of the field show would get to play as the opening for the pregame to the Holiday Bowl. However, everyone who participated was included to play in the halftime show. Consisting of songs that represent Hawai'i, Our parade song was the Hawaiian song Kana'i Aupuni. We incorporate hula steps into our marching.
 
-The following is a recording of our field show run from the competition:
-
-<div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/watch?v=MxqIUAAeYLM" 
-          title="Kaua’i All Island Band" 
-          allowfullscreen>
-  </iframe>
-</div>
-
 We were able to secure first place in the parade for our unique and authentic sound along with distinct movements. For our field show, we placed them there. To this day I am very proud of everyone's work and still get shivers watching our performances.
-
-This video is of our parade in San Diego (apologies for the quality):
-
-<div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/watch?v=3i74mET0JDc" 
-          title="Kaua’i All Island Band In Holiday Bowl Parade #4" 
-          allowfullscreen>
-  </iframe>
-</div>
 
 ## Memories That Last
 
