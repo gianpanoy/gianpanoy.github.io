@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bowling-horizonal-post.jpg
+image: img/jrgold-logo.png
 title: "Striking Success"
 date: 2024
 published: true
