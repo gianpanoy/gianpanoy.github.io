@@ -24,6 +24,6 @@ In my last high school season, we won and could represent the Island of Kauai an
 <img width="150px" class="rounded float-start pe-4" src="../img/bowling-team-kauai.JPG">
 
 # Very Far From Home
-<img width="150px" class="rounded float-start pe-4" src="../img/Norm-Duke.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Norm-Duke.jpeg">
 One of the best experiences of my life has been going up to Michigan to play in a tournament called Junior Gold. It was a nationwide event where the winner of the tournament had the chance to be on the youth national team. I got to meet a lot of competitive juniors and professional bowlers around the Country. In the last photo, is me and PBA and USBC Hall of Fame player Norm Duke. I by no means was a professional bowler, I consider myself very lucky to have that opportunity. I prepared for months honing both mental and physical games. But what I took away the most was how to mentally stay strong. Bowling is special in a way that when you are up on the lane it is just you. There are no other distractions so the real battle is in your mind. That is a lesson I've taken with me in my life.
 
