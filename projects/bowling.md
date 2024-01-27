@@ -21,6 +21,7 @@ I started bowling in my freshman year of high school. I had a late start, missin
 # High School Memories
 
 In my last high school season, we won and could represent the Island of Kauai and travel to the neighboring Island of Oahu to compete in state tournament. Those are some of the moments from high school I cheerish the most. Through sports and team collaboration, it fosters growth in everyone through forming deep connections with others but also working towards goals. Something that stuck with me, is that many people's high school's career will be their peak of that kind of competition. It is so unique not all of us get to play in University so I look back at my high school games proud.
+<img width="150px" class="rounded float-start pe-4" src="../img/bowling-team-kauai.JPG">
 
 # Very Far From Home
 <img width="150px" class="rounded float-start pe-4" src="../img/Norm-Duke.jpeg">
