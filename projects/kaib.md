@@ -26,7 +26,7 @@ One of my favorite memories from the band was participating in the Kauai All Isl
 
 The following is a recording of our field show run from the competition:
 <div class="ratio ratio-4x3 my-4">
-  <iframe src="https://youtu.be/MxqIUAAeYLM?si=AaVIJdHWPIWM67i5" 
+  <iframe src="https://www.youtube.com/watch?v=MxqIUAAeYLM" 
           title="Kaua’i All Island Band" 
           allowfullscreen>
   </iframe>
@@ -36,7 +36,7 @@ We were able to secure first place in the parade for our unique and authentic so
 
 This video is of our parade in San Diego (apologies for the quality):
 <div class="ratio ratio-4x3 my-4">
-  <iframe src="https://youtu.be/3i74mET0JDc?si=_fu_ooYfcwNeBX5S" 
+  <iframe src="https://www.youtube.com/watch?v=3i74mET0JDc" 
           title="Kaua’i All Island Band In Holiday Bowl Parade #4" 
           allowfullscreen>
   </iframe>
