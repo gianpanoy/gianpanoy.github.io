@@ -9,7 +9,7 @@ labels:
 ---
 
 # Launch Your Adventure: The Ultimate Internship Quest!
-Authors:
+**Authors:**
 Gian Panoy | Lily Enanoria | Natalie Ching | Allison Ebsen | Myra Ortigosa
 
 ## Overview (including “The problem” and “The solution”)
