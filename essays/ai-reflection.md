@@ -12,6 +12,10 @@ labels:
 ---
 
 ### I. Introduction
+
+
+<img width="350" class="rounded float-start pe-4" src="../img/chatGPT.png" alt="ChatGPT">
+
 Throughout our time in the Software Engineering course, we learned many skills, one of them that was not directly taught but was something I think I and a lot of other classmates picked up on was the help and use of AI. AI has been a great tool to use throughout the class. Throughout this essay, I will talk about my personal use of AI, and it's huge potential impact on software engineering learning and industry. A note is that I will mainly refer to AI software ChatGPT specifically version 3.5 when speaking about my experience with the technology. That is simply because it is the only one I used for this course.
 
 ### II. Personal Experience with AI:
@@ -71,6 +75,7 @@ There are many limitations with AI that we noticed. Of course, AI can't read you
 
 ### VI. Comparative Analysis:
 The comparison between traditional teaching and AI-enhanced approaches for software engineering shouldn't be made. Both of them have pros and cons to each other that other people might find beneficial but others will not. But overall, having problems to solve by working it out and doing it yourself is the best way to learn any concept, not just software engineering. I still believe that traditional teaching is the best method. I think learning from AI models just feels like a glorified textbook. All it is is reading and analyzing. A good example is personal projects. If you learned how to do it through AI sure it would have a good final project but you may not understand how everything works. By building it yourself you can get stuck and figure out every line of code in your project. This can help later in the future as for job interviews if a recruiter asks about any part of the project you are ready to answer because you know it like the back of your hand. But AI is good for little learning. How does this function work, no different than the official documentation in the book or the site because that is where it is pulling that information from. In terms of attention, interaction is just more stimulating for the brain as you are actively working out these problems.
+
 ### VII. Future Considerations:
 Currently, right now we are seeing some of the negative effects of AI. Students are cheating on exams with it, writing false papers, and even just straight plagiarizing other's work through it. Some AI detectors can spot when it is used but potential advancements in AI could make it undetectable. The hard part about learning from AI is that it will take multiple prompts to fully understand everything. In software engineering education AI is going nowhere and will continue to get better. I am sure that most AI can solve intro to CS homework already, which is detrimental to the student's learning. Schools shouldn't restrict access to AI as it won't solve the core problem, we have to educate the good use of AI to prompt better writing and learning.
 

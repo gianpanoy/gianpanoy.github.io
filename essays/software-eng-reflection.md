@@ -14,7 +14,7 @@ labels:
 
 ## What is a Software Engineering?
 
-<img width="150px" class="rounded float-start pe-4" src="../img/html-css-logo.png">
+<img width="350" class="rounded float-start pe-4" src="../img/html-css-logo.png" alt="html, css, js icons">
 
 This semester I got to learn different aspects of Software Engineering. I did not have any prior experience with front end coding such as html and css so learning about it in class was like a freshly opened door to me filled with new and interesting possibilities. In my head, what people think about when they hear the term software engineering is just 'coding.' That's the thing that everyone associates with this field, and while that is definitely true there are so many other ideas that come together and create software engineering.
 
