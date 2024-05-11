@@ -14,9 +14,13 @@ labels:
 
 ## Like Plaid!?
 
+<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns.png">
+
 What are design patterns? Now you can make many different guesses on what it could possibly be, like plaid on a dress. Originally an idea by Christopher Alexander, developers decide to apply these ideas into the realm of software engineering. In terms of software engineering, I would define it as a means of a solution to a recurring problem. Let's say for instance we have a million users that whenever they visit your website encounter a problem. Now we have a general solution that can solve it and could be used in other domains of your program.
 
 ## Cooking With Design Patterns
+
+<img width="300px" class="rounded float-start pe-4" src="../img/imi-invasive/admin-references-page.png">
 
 Design patterns I have implemented into my code, the easiest one I can remember is in my group IslandInvaders. We are working on an invasive species tracker website. I'm in charge of an encyclopedia page that houses all the invasive species across the State. However, the admin version will be slightly different. Regular users can only read but admins can read and write. In their version of the page, they can delete a species from the MongoDB from the site. And also view. This has the design pattern of Observer design pattern, more specifically a reactivity type pattern.
 

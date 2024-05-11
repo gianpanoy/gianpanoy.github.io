@@ -4,7 +4,7 @@ type: project
 image: img/jrgold-logo.png
 title: "Striking Success"
 date: 2024
-published: true
+published: false
 labels:
   - Athletics
   - Team Work
