@@ -44,7 +44,7 @@ test('Test access to user resources page', async (testController) => {
 
 Here is a test for one of the pages I built, the resources page. This page is design to allow users scroll through view cards of invasive species containing information about them. The tests are commented into three different parts. We test that our navbar works to go the page. The next test is the filter functionally, we have two different types: 1) a regular text search, 2) a dropdown to filter by type (i.e. plant, animal).
 
-<img width="500" src="../img/imi-invasive/user-resources.png">
+<img width="500" class="text-center" src="../img/imi-invasive/user-resources.png">
 
 
 ## Final Project, Final Thoughts
