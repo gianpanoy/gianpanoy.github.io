@@ -29,3 +29,7 @@ We were able to secure first place in the parade for our unique and authentic so
 ## Memories That Last
 
 I am only just one member out of the whole band, none of that would have been possible without everyone's hard dedication. Something that still sticks with me is what Ms. Tochiki said: "We are as good as our weakest player." I learned to be selfless in a way and to make sure you pull your weight because everyone else relies on each other. Sadly we had set sights on traveling to Japan in the summer of 2020, but the COVID pandemic stopped us from going.
+
+Here is a video of us performing at the field show competition:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxqIUAAeYLM" frameborder="0" allowfullscreen></iframe>
