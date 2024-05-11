@@ -18,6 +18,9 @@ labels:
 
 What are design patterns? Now you can make many different guesses on what it could possibly be, like plaid on a dress. Originally an idea by Christopher Alexander, developers decide to apply these ideas into the realm of software engineering. In terms of software engineering, I would define it as a means of a solution to a recurring problem. Let's say for instance we have a million users that whenever they visit your website encounter a problem. Now we have a general solution that can solve it and could be used in other domains of your program.
 
+#
+#
+
 ## Cooking With Design Patterns
 
 <img width="300px" class="rounded float-start pe-4" src="../img/imi-invasive/admin-references-page.png">
