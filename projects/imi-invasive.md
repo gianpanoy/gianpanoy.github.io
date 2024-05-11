@@ -26,7 +26,7 @@ The site contains landing page that explains the concept I just described. It ha
 
 One part of the project that I was extremely hands-on was the testing of our application. We used TestCafe to handle our tests which was a software tool that basically opens your site and has mouse cursor that you can control with different commands. I think originally we were going to test our own implementation of the code but since I started first I was able to get a grasp of the tool, so it was easier and faster for me to get it all done. What I failed to realize then was that a site has more functionality tact you realize. We have user login, user interface, and admin interface and within them is certain functionality that pertains just to those areas. I think I learned about building tests that I can apply to my future personal projects. Here is an example of a test case I created:
 
-<pre>
+```js
 test('Test access to user resources page', async (testController) => {
   // Login and go to page
   await loginComponent.testLogin(testController, credentials);
@@ -40,13 +40,14 @@ test('Test access to user resources page', async (testController) => {
   await loginComponent.logout(testController);
   await signoutPage.isDisplayed(testController);
 });
-</pre>
+```
 
 Here is a test for one of the pages I built, the resources page. This page is design to allow users scroll through view cards of invasive species containing information about them. The tests are commented into three different parts. We test that our navbar works to go the page. The next test is the filter functionally, we have two different types: 1) a regular text search, 2) a dropdown to filter by type (i.e. plant, animal).
 
-![img.png](img.png)
+<img width="500" src="../img/imi-invasive/user-resources.png">
 
-## 
+
+## Final Project, Final Thoughts
 
 Overall, I am extremely happy to have been on this project and work with all of my group mates. I got to learn many different aspects of building a website like this. From good communication, better understanding of GitHub, using MongoDB, and more. Below you can find more information about the project.
 

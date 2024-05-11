@@ -27,7 +27,7 @@ Design patterns I have implemented into my code, the easiest one I can remember 
 
 The observer design pattern follows the idea that we have data that will update and change, and when it does shall automatically notify the viewers of it. In terms of our website, my portion of the project. Our observers are just regular users of the site who can report invasive species and also learn more about them. The publishers of our data are specialist and certified publishers who can teach observers about invasive species in the Hawaiian Islands.
 
-Our group's final project is made in meteor so it does contain reactive data with the away we reference . My page each time it is visited will always grab the items inside of the MongoDB collection and display it as individual cards. Because of that whenever a new page is deleted or added, new users will be immediately notified.
+Our group's final project is made in meteor, so it does contain reactive data with the away we reference. My page each time it is visited will always grab the items inside the MongoDB collection and display it as individual cards. Because of that whenever a new page is deleted or added, new users will be immediately notified.
 
 
 
