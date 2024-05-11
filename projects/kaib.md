@@ -18,7 +18,7 @@ summary: "When I participate in a band representing the Island of Kauai at the H
 </div>
 
 ## Music Is Life
-I've been enjoying music for as long as I can remember. Playing the drums since elementary, when I came into middle school I decided to join a band and it was one of the best decisions of my life. The band came with so many memories from concerts, parades, and just practicing with friends. Inside the band room was an environment I can't recreate.
+I've been enjoying music for as long as I can remember. Playing the drums since elementary, when I came into middle school I decided to join a band, and it was one of the best decisions of my life. The band came with so many memories from concerts, parades, and just practicing with friends. Inside the band room was an environment I can't recreate.
 
 ## To the Mainland!
 
