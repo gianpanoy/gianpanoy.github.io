@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Real Software Engineering - A Refleciton"
+title: "The Real Software Engineering - A Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-10
 published: true
@@ -24,7 +24,7 @@ One thing that I got deeply involved in, was building testing for my final group
 
 ## Having Good Handwriting
 
-Another thing with development is coding standards. Just like the header says, a good way to think about coding standards is like your handwriting. you code. You want to have good handwriting for your peers to be able to read and look at. In this class we implemented tools like Eslint in order to maintain some type of coding standard in our class assignments and projects. I think having some sort of order and rules while you work is important because it will help with overall readability of your code. If your code is only readable to you, in a collaborative environment–where a lot of software engineering takes place, nobody will be able to understand what you wrote. Even think about yourself, if you write a program with no comments and no coding standard, come back a year later you won't remember what you wrote so while reading your code you have to retrace almost every single line. Also Eslint points out general errors like a missing semicolon or comma which is why I will continue to implement that tool in my projects.
+Another thing with development is coding standards. Just like the header says, a good way to think about coding standards is like your handwriting. you code. You want to have good handwriting for your peers to be able to read and look at. In this class we implemented tools like Eslint in order to maintain some type of coding standard in our class assignments and projects. I think having some sort of order and rules while you work is important because it will help with overall readability of your code. If your code is only readable to you, in a collaborative environment–where a lot of software engineering takes place, nobody will be able to understand what you wrote. Even think about yourself, if you write a program with no comments and no coding standard, come back a year later you won't remember what you wrote so while reading your code you have to retrace almost every single line. Also, Eslint points out general errors like a missing semicolon or comma which is why I will continue to implement that tool in my projects.
 
 ## Looking Back, Taking Steps Forward
 
