@@ -4,7 +4,7 @@ type: essay
 title: "Navigating Code and Collaboration - ICS414 Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-16
-published: true
+published: false
 labels:
   - Next.s
   - Teamwork
