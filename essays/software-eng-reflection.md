@@ -1,31 +1,29 @@
 ---
 layout: essay
 type: essay
-title: "The Real Software Engineering - A Reflection"
+title: "Navigating Code and Collaboration - ICS414 Reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-10
+date: 2025-05-16
 published: true
 labels:
-  - Javascript
-  - Design Patterns
-  - Testing
+  - Next.s
+  - Teamwork
+  - Project-based
   - Software Engineering
 ---
 
-## What is a Software Engineering?
+## A Semester With One Assignment
 
-<img width="300" class="rounded float-start pe-4" src="../img/html-css-logo.png" alt="html, css, js icons">
+This semester, I had the opportunity to take a class that strongly resembled real-life work as a software developer. Having a whole course centered around a single customer and project taught me many different things. At first, I was both excited and nervous-excited to apply my skills in a practical setting, and nervous about the challenges of group work and client communication. As the semester progressed, I learned invaluable lessons about teamwork, professional standards, and problem-solving.
 
-This semester I got to learn different aspects of Software Engineering. I did not have any prior experience with front end coding such as html and css so learning about it in class was like a freshly opened door to me filled with new and interesting possibilities. In my head, what people think about when they hear the term software engineering is just 'coding.' That's the thing that everyone associates with this field, and while that is definitely true there are so many other ideas that come together and create software engineering.
+Maintaining coding standards was an important aspect of our project. When 8 different people are set to work on one project, without rules, the code would look all different, and ideas started by one might not be properly finished by another. We agreed on conventions for code style, documentation, and commit messages to ensure consistency. At first, it was difficult to remember all the rules, and we occasionally had to refactor code to meet our standards. Code reviews became an essential part of our workflow, allowing us to catch errors and learn from each other. This process not only improved the quality of our code but also helped us develop a shared sense of responsibility for the project. Something interesting, taking the older curriculum before they changed it was helpful, but getting to learn about new tools like Next.js and Vercel was hard at first, but having group mates who took the newer Software Engineering class was very helpful.
 
-## Wait, You Have To Test What You Make?!
+## Collaboration With a Group & Client
 
-One thing that I got deeply involved in, was building testing for my final group project's website. I learned about testing a little bit before taking this class and the idea of testing functionally, but I had done it on smaller and simpler applications. Working on testing for my final group project which was a fully fledged website was honestly just as much of a task as creating it. When testing you have to go through every bit of functionality that your site has in order to see if everything works. I think the goal of testing even is to try and break it. By just doing general testing you miss the point of everything .
+In this class, there was a lot of problem-solving. Having the experience to work with an actual client to shape their ideas and desires into actual working software is a great experience. It requires additional thinking from what maybe you or I want. You have to ask questions like, "Does this align with the company's vision?", "Is this what the client is expecting?". Not every time will you hit the nail on the head, but keeping the client in mind when coding and designing is especially important. There were many times and aspects that we may have neglected in designing this application for our client. A good example is our client noticed a lack of color and tons of whitespace all on the page. With my group, we realized that in focusing on functionality, we neglected the overall look and aesthetics of the application, something that is an important factor when dealing with a client. Applying user experience is very important when you have to question what kind of people with what skills will be using this software.
 
-## Having Good Handwriting
+But without hardships, there cannot be learning. One of the hardest parts in this class was communication within my group. In my previous group project, all the members were people I considered friends, so I didn't feel ashamed when I couldn't get a feature to work or needed collaboration with an aspect of the project. It can feel maybe scary to ask for help from different people, but if there is anything I learned is to not be afraid to ask for help. If your groupmates have similar goals and desires for the project to succeed, then they will gladly assist and help. Scheduling around group members' schedules proved to have some difficulties as well. Managing 8 people's schedules outside of the task proved to be a challenge.
 
-Another thing with development is coding standards. Just like the header says, a good way to think about coding standards is like your handwriting. you code. You want to have good handwriting for your peers to be able to read and look at. In this class we implemented tools like Eslint in order to maintain some type of coding standard in our class assignments and projects. I think having some sort of order and rules while you work is important because it will help with overall readability of your code. If your code is only readable to you, in a collaborative environment–where a lot of software engineering takes place, nobody will be able to understand what you wrote. Even think about yourself, if you write a program with no comments and no coding standard, come back a year later you won't remember what you wrote so while reading your code you have to retrace almost every single line. Also, Eslint points out general errors like a missing semicolon or comma which is why I will continue to implement that tool in my projects.
+## Lessons Learned
 
-## Looking Back, Taking Steps Forward
-
-Overall I think this class was a great first step into the world of software engineering. Looking at something like our final project for this class–which is listed on my portfolio. It is basically an invasive species tracker for the state of Hawaii where you can upload and learn more different species here. I honestly never thought I would get to build something as put together as our website. It makes me want to continue on building new projects and continue learning potentially new frameworks and other aspects. I had interest in this field and this class helped me learn a little bit more and I can say that I want to continue learning and growing as a software engineer.
+Overall, the problem-solving aspect of the course was the most rewarding. Each obstacle-whether technical or interpersonal-was an opportunity to grow. We brainstormed solutions together, divided tasks so everyone had a chance to make commits, and supported each other through setbacks. By the end of the semester, while not a completely fleshed-out product, the experiences I learned throughout the semester have been very important. I am grateful for the experience and the lessons I will carry with me into my future career.
